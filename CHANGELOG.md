@@ -1,5 +1,11 @@
+Changelog for restic 0.12.0-setpath (2021-02-14)
+================================================
+
+Patch restic to add --set-path option from https://github.com/aawsome/restic/tree/backup-set-path
+
+
 Changelog for restic 0.12.0 (2021-02-14)
-=======================================
+========================================
 
 The following sections list the changes in restic 0.12.0 relevant to
 restic users. The changes are ordered by importance.
